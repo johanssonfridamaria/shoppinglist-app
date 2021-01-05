@@ -1,0 +1,2 @@
+# shoppinglist-app
+school project
